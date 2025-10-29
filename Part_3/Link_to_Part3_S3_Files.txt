@@ -1,0 +1,3 @@
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part3/outputs/best_year_per_series.csv
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part3/outputs/population_mean_std_2013_2018.csv
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part3/outputs/prs30006032_q01_with_population.csv

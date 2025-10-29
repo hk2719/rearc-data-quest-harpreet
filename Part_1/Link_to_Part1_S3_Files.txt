@@ -1,0 +1,12 @@
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part1/bls/pr/pr.class
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part1/bls/pr/pr.contacts
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part1/bls/pr/pr.data.0.Current
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part1/bls/pr/pr.data.1.AllData
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part1/bls/pr/pr.duration
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part1/bls/pr/pr.footnote
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part1/bls/pr/pr.measure
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part1/bls/pr/pr.period
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part1/bls/pr/pr.seasonal
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part1/bls/pr/pr.sector
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part1/bls/pr/pr.series
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part1/bls/pr/pr.txt

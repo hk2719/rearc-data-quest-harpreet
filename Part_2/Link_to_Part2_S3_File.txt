@@ -1,0 +1,1 @@
+https://rearc-dataquest-harpreet.s3.us-east-2.amazonaws.com/part2/population_data.json
