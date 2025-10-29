@@ -54,4 +54,4 @@
 
 ## 🧠 Documentation
 - **File:** `Assistance of AI with Rearc Data Quest challenge.docx`  
-  A detailed write-up describing how AI was used throughout the project for automation, debugging, and documentation.
+  A detailed write-up describing how AI was used in the project.
